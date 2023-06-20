@@ -14,7 +14,8 @@ This Repository contains:
 
 ```python
 Main Libraries: 
-=> Numpy
-=> Panda
+=> numpy
+=> panda
+=> matplotlib.pyplot
 ```
 
