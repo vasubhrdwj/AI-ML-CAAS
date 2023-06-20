@@ -1,4 +1,20 @@
-# AI-ML-CAAS
+#  AI-ML #
 
-This Repository contains the assignments and tests given in Summer Training AI_ML 
+#### Summer Training  AI_ML:-
+<br>
+This Repository contains:
+<ul>
+  <li>Assignments</li>
+  <li>Tests</li>
+  <li>Projects </li>
+</ul>
+<br>
+
+***S/N: Everything is coded in python in Jupyter Notebook***
+
+```python
+Main Libraries: 
+=> Numpy
+=> Panda
+```
 
