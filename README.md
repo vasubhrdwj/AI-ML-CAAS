@@ -15,7 +15,9 @@ This Repository contains:
 ```python
 Main Libraries: 
 => numpy
-=> panda
-=> matplotlib.pyplot
+=> pandas
+=> matplotlib.pyplot'
+=> seaborn
+=> sklearn
 ```
 
